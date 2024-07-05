@@ -1,4 +1,4 @@
-module github.com/aggregat4/go-baselib-services
+module github.com/aggregat4/go-baselib-services/v2
 
 go 1.22.1
 require (
